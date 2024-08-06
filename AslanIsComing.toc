@@ -1,0 +1,7 @@
+## Interface: 110000
+## Title: Aslan Is Coming
+## Notes: Automatically types a message in chat when entering a new area.
+## Author: Jucicool
+## Version: 1.0.0
+
+AslanIsComing.lua
